@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <style>
+        .container{
+            display: flex;
+            background-color: yellow;
+            justify-content: space-evenly;
+            padding: 20px;
+        }
+        .container>div{
+            height: 100px;
+            width: 100px;
+            background-color: teal;
+            font-size: 30px;
+            gap: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+    </div>
+    
+</body>
+</html>
+<script>
+    var box =document.querySelectorAll(".container>div")
+    for(let i=0;i<box.length;i++){
+        box[i].addEventListener("click",myfun);
+
+    }
+    
+    function myfun(ele){
+        console.log(event.target);
+        console.log(event.target.innerText);
+    }
+
+</script>

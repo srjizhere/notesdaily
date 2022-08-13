@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <div class="masai">Masai</div>
+    <p>p1</p>
+    <p>p2</p>
+    <h1 class="masai">head1</h1>
+    <h3>head3</h3>
+    <h1>Masai School</h1>
+    
+</body>
+</html>
+<script>
+    //only first element will be catched which matches for any selection
+    document.querySelector("p").style.backgroundColor="red";
+    // let us select h3 tag   also done by h1+h3
+    document.querySelector(".masai+h3").style.backgroundColor="teal";
+    // check for query 3 for query all 
+</script>

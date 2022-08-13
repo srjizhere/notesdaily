@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="head-1">Masai School</h1>
+    <!-- onClick event should go like this in camel  -->
+
+    <button onClick="Changetored()">Change color to Red</button>
+    <button onClick="Changetogreen()">Change color to Green</button>
+    
+</body>
+</html>
+<script>
+    // first catch the element by id and give style as same 
+    // as inline style
+    document.getElementById("head-1").style.color="blue";
+    //here you need to get the element again style should be in camel case
+    document.getElementById("head-1").style.fontSize="70px";
+    document.getElementById("head-1").style.backgroundColor="teal";
+    // there is shortcut learn tmmorow
+    // As the onClick event is given on the line 13 and 14 so we need 
+    // to define it.
+    function Changetored(){
+        document.getElementById("head-1").style.color="red";
+        
+}
+    function Changetogreen(){
+        document.getElementById("head-1").style.color="green";
+        
+}
+// if you want to change the inner text then refer to dom2_2.html
+
+
+
+</script>

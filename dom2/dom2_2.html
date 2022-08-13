@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Masai mark as pending</title>
+</head>
+<body>
+    <h1 id="res">Display status</h1>
+
+    <button onClick="pending()">Mark as pending</button>        
+    <button onClick="complet()">Mark as Completed</button>
+    <!-- you have to call the function in above line -->
+</body>
+</html>
+<script>
+    // also can name catch element as a varible done below
+   let catchvar= document.getElementById("res")
+function complet(){        
+    // below using it as a variable name
+    catchvar.innerText="Assignment is Completed"
+    catchvar.style.backgroundColor="green"
+    
+}
+function pending(){
+    // without using as varriable catchvar
+    document.getElementById("res").innerText="Assignment is pending"
+    document.getElementById("res").style.backgroundColor="red"
+    
+}
+// learn about query selector in query1.html
+</script>

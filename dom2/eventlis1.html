@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Document</title>
+</head>
+<body>
+    <button>Click me</button>
+    <h1>Masai School</h1>
+    
+</body>
+</html>
+<script>
+    // addEventListener
+    // this will take two parameter  ("event",function) dont use()
+    document.querySelector("button").addEventListener("click",myfun);
+// """whenever an event is triggered an additional info about that 
+//    event will be formed"""
+// event is a keyword as well in javaScript
+   
+   
+   
+   
+    function myfun(xyz){
+        console.log("someone Clicked me")
+        console.log(event)      // this event obj see example list
+        console.log(xyz)      // this event is like parameter as well
+        console.log(event.target) //target element here button tag
+        console.log(event.target.innerText) //target is also a nested obj
+    }
+</script>
