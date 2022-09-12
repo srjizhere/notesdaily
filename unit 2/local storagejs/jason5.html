@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>button</title>
+</head>
+<body>
+    <button onClick="storenam()">store to ls</button>
+    <button onClick="getname()">get name from LS</button>
+    <button onClick="storee()">set array from LS</button>
+    <button onClick="getarr()">get array from LS</button>
+    
+    
+</body>
+</html>
+<script>
+    // store nameto LS--> username-"masai school"
+    function storenam(){
+        localStorage.setItem("username","masai school")
+    }
+    function getname(){
+       let x= localStorage.getItem("username")
+       console.log(x);
+    }
+    let arr=["suraj","manki"]
+    function storee(){
+       localStorage.setItem("name",JSON.stringify(arr))
+    }
+    function getarr(){
+      let y=JSON.parse(localStorage.getItem("name"))
+       console.log(y)
+    }
+</script>

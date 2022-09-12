@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<style>
+    button{
+        background-color: aquamarine;
+        /* padding: 20px; this will apply to all the sided*/
+        /* if you give two values left for top n bottom  */
+        /* right for left right  */
+        padding: 10px 20px;
+    }
+    /* use hover pseudo class */
+    /* whenever you hover it it will be on action */
+    button:nth-child(1){
+        background-color: red;
+        color: aquamarine;  /*change text color*/
+        padding: 20px 30px;
+    }
+    button:nth-child(1):hover{
+        background-color: goldenrod;
+        color: aquamarine;  /*change text color*/
+        padding: 20px 30px;
+    }
+    h1:hover{
+        color: blueviolet;
+    }
+    button+button:hover{
+        background-color: burlywood;
+    }
+
+
+</style>
+<body> 
+    <button>Signup</button>
+    <button>login</button>
+    <h1>Masai Schoool</h1>
+    
+</body>
+</html>

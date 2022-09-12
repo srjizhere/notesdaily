@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="head" class="masai">Heading</h1>
+    <p id="para1">Im paragraph</p>
+    <h3 id="head3">Iam heading 3</h3>
+    <div id="box">I am a box <i>Masai</i></div>
+
+    
+</body>
+</html>
+<script>
+    // we can catch the element ny its id only 
+    // later class combinator and tags 
+    // so to get by id  getElementbyId
+    console.log(document); //you will get all tags tags
+    // syntax for above  document.getElementById("Id")
+    console.log(document.getElementById("head"));
+//    if you want to access the innertext follow below
+    console.log(document.getElementById("para1").innerText);
+    console.log(document.getElementById("box").innerText);
+    // to display inner html 
+    console.log(document.getElementById("box").innerHTML);
+
+
+
+
+</script>

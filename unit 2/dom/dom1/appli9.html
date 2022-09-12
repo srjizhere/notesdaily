@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>build application</title>
+</head>
+<body>
+    <h1 id="head">Display Eligblity</h1>
+    <input id="in" type="number" placeholder="Enter Name">
+    <button onClick="check()">Check Eligblity</button>
+    
+</body>
+</html>
+<script>
+    function check(){
+        let t=document.getElementById("in").value;
+        if(t>=18){
+            document.getElementById("head").innerText="Eligible"
+            document.getElementById("head").style.backgroundColor="green"
+        }
+        else{
+            document.getElementById("head").innerText="Not Eligible"
+            document.getElementById("head").style.backgroundColor="red"
+        }
+
+    }
+</script>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Input tag Value</title>
+</head>
+<body>
+    <h1 id="h">Show your name here</h1>
+    <!-- value in input is defaul empty string -->
+    <input id="name" type="text" placeholder="Enter name" value=""/>
+    <button onClick="myfun()">Get name</button>
+</body>
+</html>
+<script>
+    function myfun(){
+        let typen=document.getElementById("name").value;
+        console.log(typen)
+        document.getElementById("h").innerText=typen
+    }
+
+</script>

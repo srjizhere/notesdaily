@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>json2</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+    let person={name:"akash",age:14,gender:"male"};
+    localStorage.setItem("personobj",JSON.stringify(person));
+    // we will try to get back data from LS 
+    //first do JSON operation then get it
+    let x=localStorage.getItem("personobj") // here you getting stingified format
+
+    console.log(x)
+    // JSON.parse() //this will convert JSON obj to js obj
+    console.log(JSON.parse(x))
+    console.log(JSON.parse(x).name)
+    
+
+</script>

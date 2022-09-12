@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Document</title>
+</head>
+<body>
+    <h1>Local Storage</h1>
+</body>
+</html>
+<script>
+    localStorage.setItem("movie","Avengers");
+    localStorage.setItem("hero","Iron man");
+    localStorage.setItem("student","Suraj");
+    let studentname= "Ayushi";
+    localStorage.setItem("stunden",studentname);
+    localStorage.setItem("movie","spiderman"); //updation line11
+    localStorage.setItem("mobile",3434343443);
+    localStorage.setItem("mobile",2342324) //updation
+    //remove mobile key
+    localStorage.removeItem("mobile");
+    //clear everything from LS
+    // localStorage.clear();
+    // localStorage will store only strings and Number 
+    // get from the LS 
+    localStorage.getItem("movie")
+    let y= localStorage.getItem("hero");
+    console.log(y)
+
+
+
+
+</script>

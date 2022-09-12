@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Change text with Button</title>
+</head>
+<body>
+    <h1 id="head">Click here to login</h1>
+    <button onClick="login()">log in</button>
+    <button onClick="logout()">log out</button>
+    
+</body>
+</html>
+<script>
+    function login(){
+         var gan="You are now logged in and its my pleasure"
+        document.getElementById("head").innerText= gan;
+        document.getElementById("head").style.background="lightgreen"
+    }
+    function logout(){
+        var gan="You are logged out and i hate you";
+        document.getElementById("head").innerText= gan;
+        document.getElementById("head").style.background="red"
+    }
+    
+
+</script>

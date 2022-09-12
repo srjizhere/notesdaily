@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Cart Page</title>
+    <style>
+         #container{
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+            gap: 20px;
+        }
+        #p_image{
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+        }
+        @media all and (min-width:312px) and (max-width:550px){
+            #container{
+                grid-template-columns: repeat(2,1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Cart page</h1>
+    <h1>Total cart item <span id="totalcartitems"></span></h1>
+    <h1>Total Cost <span id="kimmat"></span></h1>
+    <div id="container"></div>
+    
+</body>
+</html>
+<script>
+    let prod=JSON.parse(localStorage.getItem("cartitems")) ||[]
+    console.log(prod)
+    document.querySelector("#totalcartitems").innerText=prod.length
+
+let total=prod.reduce(function(acc,el,i){
+    return acc+ Number(el.price);
+},0);
+console.log(typeof total)
+document.querySelector("#kimmat").innerText=total
+
+
+
+
+    prod.map(function (elem){
+    //for img
+    let box = document.createElement("div");
+    let avtar=document.createElement("img")
+    avtar.setAttribute("src",elem.image_url);
+        // for titile
+    let title=document.createElement("p");
+    title.innerText=elem.name;
+    //for price
+     let pricetag=document.createElement("p");
+     pricetag.innerText=elem.price
+     let btn=document.createElement("button")
+     btn.innerText="remove"
+     btn.style.padding="5px";
+     btn.addEventListener("click",function(){
+        event.target.parentNode.remove();
+        
+     })
+
+
+     box.append(avtar,title,pricetag,btn)
+    document.querySelector("#container").append(box);
+});
+    </script>

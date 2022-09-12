@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combine</title>
+</head>
+<body>
+    <!-- Combine events getElementById innertext -->
+    <p id="quote">Driven By Outcomes, Driven by future</p>
+    <button onClick="show()"> Show quoute in console</button>
+    
+</body>
+</html>
+<script>
+    let count=0;
+    function show(){
+        count++;
+        let out =document.getElementById("quote").innerHTML;
+        console.log(out)
+        // you can also change it on Browser
+        document.getElementById("quote").innerHTML="This is new Quote";
+        // you can also change the text by counting the no of clicks
+        if(count==2){
+        document.getElementById("quote").innerHTML="second time clicked";
+        }
+        if(count==3){
+        document.getElementById("quote").innerHTML="third 3rd time clicked";
+        }
+        if(count==4){
+        document.getElementById("quote").innerHTML="fourth 4th time clicked";
+        count=0;
+         }
+    }
+</script>

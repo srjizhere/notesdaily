@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Get values from Select tag></title>
+</head>
+<body>
+    <h1 id="display">Display langauge here</h1>
+    <input id="inp" type="text" placeholder="Enter unit">
+    <select id="lag">
+        <option value="JavaScript">JavaScript</option>
+        <option value="C">C</option>
+        <option value="C++">C++</option>
+        <option value="Java">Java</option>
+    </select>
+    <button onclick="sel()">select langauge</button>
+    
+</body>
+</html>
+<script>
+    function sel(){
+        let lang=document.getElementById("lag").value;
+        console.log(lang);
+        let unit=document.getElementById("inp").value;
+        document.getElementById("display").innerText=lang+unit;
+    }
+</script>

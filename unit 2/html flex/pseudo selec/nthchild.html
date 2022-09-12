@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>css nth</title>
+    <!-- if you want to select nth number of child then use this tag -->
+<!-- pseudo classes ex nth child -->
+<style>
+    /* you can select it p2 */
+    p:nth-child(1){
+        /* first child will be selected */
+        background-color: red;
+    }
+    /* or use  */
+    /* p:first-child{
+        background-color: aquamarine;
+    } */
+    p:nth-child(3){
+        background-color: blue;
+        /* it will select p3  */
+    }
+    /* if you want to select more than 1 tag then use below  */
+    /* using , selector */
+    p:nth-child(2),p:nth-child(5){
+        background-color: aqua;
+    }
+</style>
+</head>
+
+<body>
+    <p>p1</p>
+    <p>p2</p>
+    <p>p3</p>
+    <p>p4</p>
+    <p>p5</p>
+    
+</body>
+</html>

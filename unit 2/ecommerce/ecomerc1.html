@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Ecommerce</title>
+</head>
+<style>
+    button{
+        margin-left: 10px;
+    }
+</style>
+<body>
+
+    
+</body>
+</html>
+<script>
+let color=[
+    {name:"primary",bgcolor:"blue"},
+    {name:"secondary",bgcolor:"grey"},
+    {name:"danger",bgcolor:"red"},
+    {name:"warning",bgcolor:"yellow"},
+    {name:"info",bgcolor:"cyan"},
+    {name:"light",bgcolor:"whitesmoke"},
+    {name:"dark",bgcolor:"black"},
+    {name:"link",bgcolor:"lightblue"},
+]
+// for(let i=0;i<color.length;i++){
+//     let btn=document.createElement("button");
+//     btn.innerText=color[i].name;
+//     btn.style.background=color[i].bgcolor;
+//     document.querySelector("body").append(btn);
+// we are appending this data to the body}
+
+
+color.map(function(elem,i){
+    let btn=document.createElement("button");
+    btn.innerText=color[i].name; //elem.name
+    btn.style.background=color[i].bgcolor; //elem.bgcolor
+    document.querySelector("body").append(btn); 
+    //above line to append the data to body
+})
+
+
+
+
+
+
+
+    // let names =["manoshar","kamal","amir","saurav"]
+    // let balance =["10000","324343242","324324242342","34"]
+    // let bankdata=[{name:"manohar",balance:100000}
+    // ,{name:"kamal",balance:23232323},
+    // {name:"laxmi",balance:234444}] combine two arr as obj
+</script>

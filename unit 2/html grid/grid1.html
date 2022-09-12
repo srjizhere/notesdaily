@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>grid</title>
+    <!-- grid is two dimensional -->
+    <style>
+        #container{
+            padding: 20px;
+            background-color: teal;
+            display: grid; /*this willl make two dimensional flow*/
+            /* specify row and coloums */
+            /* syntax: grid-template-columns 1column; */
+            /* grid-template-columns: 100px; */
+            /* rows will be by default for it */
+            /* syntax: grid-template-columns 1column 1st 2nd; */
+             grid-template-columns: 100px 100px;
+             /* grid-template-rows: 100px; only 1st afftect */
+             grid-template-rows: 100px 100px; /*affect 2nd too*/
+             /* grid-template-rows: 100px 100px 100px;make some empty space */
+             /* gap: 20px;provide gap between two  */
+             gap:20px 30px;
+
+
+        }
+        #container>div:nth-child(1){
+            background-color: yellow;
+        }
+        #container>div:nth-child(2){
+            background-color: pink;
+        }
+        #container>div:nth-child(3){
+            background-color: brown;
+        }
+        #container>div:nth-child(4){
+            background-color: orange;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+    </div>
+    
+</body>
+</html>
