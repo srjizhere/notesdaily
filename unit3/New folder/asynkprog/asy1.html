@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>asynchronous programming</title>
+</head>
+<body>
+    <h1>asynchronous programming</h1>
+    <div id="count"></div>
+    
+</body>
+</html>
+<script>
+//asynchronous programming-not continueous
+
+//learn programming
+
+//what differentites a type?
+
+
+// asynchronous programming. (event loop)
+
+//setTimeout,setInerval
+
+//this is related to time line23
+
+
+//do they show you on certain part of div?
+//1
+//i appended data, does it keep on changing(After Every 1 Second)
+
+
+//WE ARE GOING TO CREATE COUNTER
+
+function counter(){
+    let counter_div=document.getElementById("count");
+    let i=10;
+    //parameters;
+// setInerval has 2 parameters callback function and time
+//you can direcly write inside paramerter or pass a function
+//you have to invoke it;
+//setinterval is a function.
+//it is function which executes repatedly.
+let x=setInterval(function(){   // name this
+    if(i===0){
+        // i want to stop this setInterval 
+        clearInterval(x)  //asking para to whome i destroy its x named setInterval
+        
+    }
+    if(i==60){
+        
+    }
+    counter_div.innerHTML=i
+    i--;
+
+},1000);   //this function is going to repate after 1 sec because of setInterval
+
+
+
+}
+//now you need to stop the setInterval function-clearInterval
+// setTimeout-clearTimeout
+
+
+counter();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//1 to 100 show
+
+
+
+
+
+
+// for(let i=0;i<100;i++){
+//     console.log(i); NO CONTROL ON TIME
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

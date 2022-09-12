@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+form{
+    width: 10%;
+}
+input{
+    margin-top: 10%;
+}
+button{
+    margin-top: 2%;
+}
+
+
+
+
+
+    </style>
+</head>
+<body>
+    <div id="coniainer">
+        <div id="regis">
+            <form action="">
+            <input type="text" id="name" placeholder="name">
+            <input type="email" id="email" placeholder="email">
+            <input type="passowrd" id="password" placeholder="password">
+            <input type="text" id="username" placeholder="username">
+            <input type="number" id="mobile" placeholder="mobile">
+            <input type="text" id="descri" placeholder="description">
+            </form>
+            <button onclick="register()">Submit</button>
+        </div>
+         </div>
+    
+</body>
+</html>
+<script>
+//1.create login file
+//2. where we need to seen data? 
+//3.register?
+
+
+//1.collect the data
+//2. CF to create object of above data
+function getInputValue(id){
+let value=document.getElementById(id).value;
+    return value;
+
+}
+function user(n,e,p,u,m,d){
+    this.name=n;
+    this.email=e;
+    this.password=p;
+    this.username=u;
+    this.mobile=m
+    this.description=d;
+}
+
+
+
+
+
+
+
+function register(){
+    const name =document.getInputValue("name");
+    const email=document.getInputValue("email");
+    const password=document.getInputValue("password");
+    const username=document.getInputValue("username");
+    const mobile=document.getInputValue("mobile");
+    const description=document.getInputValue("description");
+    let userdata=new user(name,email,password,username,mobile,description)
+    // Object
+    console.log(userdata);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

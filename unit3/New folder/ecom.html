@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Day2-constructor function</h1>
+    <form action="" id="prodform" onsubmit="addprod()">
+        <input type="text"  id="naam">
+        <input type="number"  id="kimat">
+        <input type="submit">
+    </form>
+    
+</body>
+</html>
+<script>
+    let arr=[];
+
+    function Nike(n,p){
+        this.name=n;
+        this.price=p;
+    }
+    function addprod(){
+        event.preventDefault();
+        let form=document.getElementById("prodform");
+        // varriable--refence--id--value 
+        let name=form.naam.value;
+        let price=form.kimat.value;
+        let p1= new Nike(name,price);
+        arr.push(p1)
+        console.log("arr:",arr);
+    }
+    //constructor function can create object
+
+
+    //call, apply , bind
+    //call-functon
+    // CAB are related to function properties 
+    const kitchen={
+        name:"kitchen",
+        purpose:"cook",
+        cookingfood(order){
+            console.log(`serving ${order} in ${this.name}`);
+        },
+    };
+    const bedroom={
+        name:"bedroom",
+        purpose:"sleep",
+    };
+    //what if you can access kitchen from bedroom
+    // how can we access method of one object kitchen on another 
+    //call
+    kitchen.cookingfood("maggie")
+
+    //serving maggie in bedroom
+    // currently the value of "this "is kitchen it should bedroom now
+    kitchen.cookingfood.call(bedroom,"maggie");
+    
+    //ringing a bell is a process
+    let person1={
+        name:"raju"
+    }
+    let person2={
+        name:"babu bhiya"
+    }
+    let person3={
+        name:"kachra seth"
+    }
+
+
+    function ringbell(day,action){
+        console.log(`${this.name} rang the bell on ${day} and ${action}`);
+    }
+    ringbell.call(person2,"thus","ran")  //this ki value person
+    // this will point to object 
+
+
+    // apply 
+    ringbell.apply(person2, ["thus","ran"])  //this ki value person2
+
+    // bind 
+    let x=ringbell.bind(person2,"thus","sleep")  //this ki value person2
+    x();
+
+
+    function createst(n,a,g){
+        this.name=n
+        this.age=a
+        this.gender=g;
+    }
+    
+    //
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

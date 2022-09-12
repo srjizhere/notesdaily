@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+</body>
+</html>
+<script>
+//fetch-- grab &get back
+// lets go to GOA you need
+//0 permission
+//1 car
+//2 map(route)
+//3 Customization
+
+//fetch is our car.
+//
+//Destination is server.(someone who servers Data);
+//arguments
+//return
+//destroyed
+// fetch requried- url address
+// let url='https://fakestoreapi.com/products/category/electronics'
+
+// //fetch is a promise
+// fetch(url).then(function(res){
+// // console.log(res);
+// return res.json()
+// //collect the stream
+
+// }).then(function(res){
+//     console.log(res);
+// }).catch(function(err){
+//     console.log(err);
+// })
+//redableStream
+//stream- flow of droplets.
+//information makes sense when you collect it.
+///////to short this process you can do asyn await.
+async function getData(){
+    try{
+ let res=  await fetch("https://fakestoreapi.com/products/category/electronics")
+//  console.log(res);
+let data=await res.json();
+console.log(data);
+}catch(err){
+    console.log( err);
+}
+}
+
+getData();
+
+
+
+
+
+// fetch is a promise 
+//fetch is like a giftbox
+
+
+
+// console.log(x);
+
+
+
+
+//browswer
+//url
+//map
+//api
+
+
+</script>

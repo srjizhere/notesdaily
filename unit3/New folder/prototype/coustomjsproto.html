@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+//1. when you invoke CF, all the properties are set on new object,refered as "this" in CF
+//2. when you invoke Object.create(), all the properties are set on the prototype of new object.
+//3. In CF, you pass properties.
+//4. In Object.create, you pass parent (a prototype) with properties.
+
+////////////////////////////////////////////////////////////////////////////////////////////
+// CREATING A COUSTOM ARRAY
+
+
+
+
+//CREATE A CYCLE 
+//RAW MATERIAL+BRAIN NEEDED TO EXECUTE \23
+//DO YOU UNDERSTAND HOW A CYCLE IS MADE //REVERSE ENGINEERING
+
+
+
+////////////////////////////////
+
+// //TO CREATE ARRAY- TO STUDY AN ARRAY LETS STUDY 
+// let arr=[1,2,3,4]        THIS IS HOW WE DO IT
+// console.log(arr);
+// // for above line we study
+// //1. array has indices, key value pairs- array is an object
+// //2.all of its method are stored in its prototype.
+
+///////////////////////////////
+
+//////////////////////////////
+// array :addressing is based upon index(number)
+// object:addressing is based upon key(string)
+// arry has indices,keyvalue pairs- array is an object
+//all of its methods are stored in its prototype
+
+//is mimiking line 53
+
+
+
+
+let arr=new Array(1,2,3,4);       // this is how js create array with constuctor function which returns an array
+
+let myArr= new myArray(1,2,3,4);   
+function myArray(){
+
+
+
+    Object.defineProperty(this, "length",{
+        enumerable:false
+    });
+
+    this.length=arguments.length;
+//does Array has parameter?
+//my clone ,myArray should also have params
+// how can I read those arguments
+
+// console.log(arguments);  //arguments can tell you all the arguments
+
+for(let i=0;i<arguments.length;i++){
+    this[i]=arguments[i];
+
+}
+// myArray is a constuctor function 
+myArray.prototype.puus=function(value){
+        let index =this.length
+        this[index]=value;
+        this.length++;
+}
+
+
+}
+// myArray is a constuctor function 
+
+myArr.puus(90)
+// console.log(myArr);
+console.log(Object.values(myArr));
+myArr.poop()
+console.log(Object.values(myArr));
+
+
+//now how to acces
+// myarr[0]=1;
+// myarr[2]=2;
+// myarr[3]=3;
+// myarr[4]=4;
+
+
+
+
+
+/////////////////////////////
+////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

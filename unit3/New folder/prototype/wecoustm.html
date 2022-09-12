@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+
+
+
+
+
+
+
+let myArr= new myArray(1,2,3,4);   
+function myArray(){
+
+
+
+    Object.defineProperty(this, "length",{
+        enumerable:false
+    });
+
+    this.length=arguments.length;
+//does Array has parameter?
+//my clone ,myArray should also have params
+// how can I read those arguments
+
+// console.log(arguments);  //arguments can tell you all the arguments
+
+for(let i=0;i<arguments.length;i++){
+    this[i]=arguments[i];
+
+}
+// myArray is a constuctor function 
+myArray.prototype.puus=function(value){
+        let index =this.length
+        this[index]=value;
+        this.length++;
+}
+myArray.prototype.pooop=function(value){
+        this.lenght--;
+        // let index =this.length
+        var delno =this[this.length]
+        delete this[this.length]
+        return delno
+}
+
+
+}
+myArr.pooop()
+
+// myArray is a constuctor function 
+
+myArr.puus(90)
+// console.log(myArr);
+console.log(Object.values(myArr));
+
+
+
+
+
+
+
+
+
+</script>

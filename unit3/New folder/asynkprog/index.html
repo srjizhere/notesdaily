@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>asynkfunction</title>
+</head>
+<body>
+    <input type="url" id="url">
+    <button onclick="storeImage()">Submit</button> 
+</body>
+</html>
+<script>
+//create album maker
+//album maker containes images
+//we need url to show images
+//1. we will require images(url)
+//...index.html
+//accept image url input
+//store this image in local storage
+function storeImage(){
+    let url=document.getElementById("url").value;
+    //1. first time no data in LS
+    //2. having some data in LS already visited
+
+    let images=JSON.parse(localStorage.getItem("images") )|| [];
+    
+    images.push(url);
+    localStorage.setItem("images",JSON.stringify(images))
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

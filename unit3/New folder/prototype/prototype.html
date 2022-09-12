@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>prototype</title>
+</head>
+<body>
+    <h1>prototype</h1>
+</body>
+</html>
+<script>
+//everthing in js object
+// //inheritance using constructor function
+// function Nike(n,p){
+//     this.name=n;
+//     this.price=p;
+//     this.brand="nike"
+// }
+// //p1- nike -prototype
+
+
+
+
+
+
+// let p1= new Nike("shoes",4000);
+// console.log("p1:",p1);
+// Nike.prototype.offer=function(){
+//     if(this.price>1000){
+//         console.log("promo is applicable");
+//     }
+//     else{
+//         return false;
+//     }
+        
+// }
+// p1.offer();   //this is invoking method inside prototype
+// //js itself stores methods/functions on prototype
+// //props are stored in actual object
+// // prototype-inheritance
+
+
+
+
+
+
+// props are stored in actual obj 
+//why to use prototype property
+// prototype -inheritance
+
+
+//create a web 20z students from CF and add a method submit assignment
+// function students(n,c){
+//     this.name =n,
+//     this.course =c,
+//     this.assignment=0;
+// }
+//     students.prototype.summitas=function (){
+//         this.assignment++;
+//     }
+// let s1 = new students("pablo","232")
+// console.log(s1);
+// s1.summitas();
+// s1.summitas();
+//next topic is/////////////////////////////////////////////---->
+// object.create() ---->object
+//comes from another object
+let naya="ki";
+let spnike={
+    prakar:"juti",
+    thappa:"nike",
+    bechna:"flipkart",
+};
+let n1=Object.create(spnike); //this all spnkie property they will added in prototype
+
+n1.kimat=15000;
+console.log(n1);
+//you can drectly do this but it will be bigger
+
+
+
+// //create a web 20 studend database using Object.create()
+// let stud={
+//     batch:"web20",
+//     course:"js01",
+//     niknam:"surj",
+// }
+// let st1=Object.create(stud);
+// // paramete
+// console.log(st1);
+// console.log(st1.batch);  //you can get it without typing .protoype as because of the inheritance property
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>

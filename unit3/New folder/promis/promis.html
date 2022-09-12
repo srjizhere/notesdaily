@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+<script>
+//time x promise
+
+
+// let url=`https://img.net/js`
+
+
+
+// function download(url){
+//     console.log(`downloading ${url}`);
+// }
+
+
+// function processing(picture){
+//     console.log(`processing ${picture}`);
+// }
+// download(url)
+// processing(url);
+
+// let url=`https://img.net/js`
+
+// function download(url){
+    //     setTimeout(function(){
+        //         console.log(`dowloading ${url}`);
+        
+//     },3000);
+// }
+// function process(picture){
+    //         console.log(`processing ${picture}`);
+    
+    
+    // }
+// download(url);
+// process(url);
+
+ //3.process() should run only after download() is done
+ //execute a function after the first function is done....callbackfunction
+ 
+ //4. use callback
+//  let url=`https://img.net/js`
+//  function download(url,callback){
+//      setTimeout(function(){
+//          console.log(`dowloading ${url}`);
+         
+//          callback(url);
+         
+//         },3000)
+//  }
+
+//  function process(picture){
+//         console.log(`processing ${picture}`);
+
+
+// }
+// download(url,process);
+
+
+
+ 
+
+    // what if we have multipule images
+//     let url1=`https://img.net/js1`
+//     let url2=`https://img.net/js2`
+//     let url3=`https://img.net/js3`
+//     function download(url,callback){
+//      setTimeout(function(){
+//          console.log(`dowloading ${url}`);
+         
+//          callback(url);
+         
+//         },3000)
+//  }
+// download(url1,function process(picture){
+//         console.log(`processing ${picture}`);
+//         download(url2,function process(picture){
+//                 console.log(`processing ${picture}`);
+//                 download(url3,function process(picture){
+//                 console.log(`processing ${picture}`);
+//                 download(url2,function process(picture){
+//                 console.log(`processing ${picture}`);
+        
+//         });
+        
+//         });
+//         });   //this is piramid of dome //callback hell
+        
+// });
+
+
+//execute a function after first function is done that is promise()
+
+// getData()
+// appendData()
+// getdata(url,appendData) this is callback hell
+
+// to avoid this use promise promise() will get out of you the callback hell
+
+//execute a function after first function is done that is promise()
+
+//wecome promise
+let url=`https://img.net/js`
+
+
+function process(picture){
+    console.log(`processing ${picture}`);
+    
+}
+
+//the first process is promise
+//rewrite our download
+// this is Promise
+function dowload(url){
+
+// promise is an object 
+   return new Promise(function(resolve,reject){
+        //resolve-sucess
+        //reject-fail
+        setTimeout(function(){
+
+            console.log(`downloading ${url}`);
+            resolve(url);
+        },3000);
+
+    });
+
+};
+//how to handle promise value
+let mypromise=dowload(url);
+mypromise.then(function(res){
+    process(url);
+}).catch(function(err){
+    console.log(err);
+})
+
+
+
+
+
+
+//promise takes time.
+//when promise is sucessfull(resolve),.then
+//when promise is unsucessfull(catch),.then
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
