@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PSc Crud</title>
+    <style>
+        #user_form{
+            display: flex;
+            flex-direction: column;;
+            width: 40%;
+            gap:20px;
+        }
+    </style>
+</head>
+<body>
+    <form action="" id="user_form">
+        <input type="text" id="name" placeholder="Name">
+        <input type="text" id="batch" placeholder="Batch">
+        <input type="text" id="course" placeholder="Course">
+        <input type="number" id="age" placeholder="Age">
+        <input type="number" id="mobie" placeholder="Mobile">
+        <input type="number" id="score" placeholder="Evaluation Score">
+        <input type="submit" value="submit" onsubmit="addUser(e)">
+    </form>
+    
+</body>
+<script src="main.js"></script>
+</html>

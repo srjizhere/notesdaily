@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>youtube </title>
+    <style>
+        #container{
+            display: grid;
+            grid-gap:5%;
+            grid-template-columns: repeat(4,20%);
+            justify-content: space-between;
+            margin-top: 10px;
+            text-align: center;
+        }
+        #container img{
+            width:90% ;
+        }
+    </style>
+</head>
+<body>
+    <h1>YOU TUBE</h1>
+    <input type="text"  id="query">
+    <button onclick="searchvideo()">Search</button>
+    <div id="container"></div>
+    
+</body>
+</html>
+<script src="index.js"></script>

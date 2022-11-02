@@ -1,0 +1,11 @@
+whenever Js Engine encounters a piece of code that will take a long to execute, it hands over it's execution to browser.
+
+Browser now takes care of that task and when its finished,it pings the Js engine that the task is done.
+that's how Js engine and Browser work together to make JavaScript capable of asnchronous programming.
+
+JS by nature us syncronus
+
+what
+
+
+

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inventory</title>
+</head>
+<body>
+    <div>
+        <button onclick="sortlow()">Sort low to high</button>
+        <select name="select" id="filter" onchange="filter()" >
+            <option value="puma">puma</option>
+            <option value="local">local</option>
+            <option value="nike">nike</option>
+            <option value="rebok">rebok</option>
+        </select>
+        <div id="container"></div>
+    </div>
+    
+</body>
+</html>
+<script src="inventory.js"></script>

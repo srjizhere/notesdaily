@@ -1,0 +1,39 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+#navbar>div{
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+}
+#navbar a{
+    
+    margin: 10px;
+    padding: 3%;
+    border: 1px solid red;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+#input_data{
+    width: 60%;
+    border: 1px solid grey;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+#mobile_form input{
+    display: block;
+    width: 100%;
+    justify-content: center;
+    margin: 5%;
+
+}
+#mobile_form{
+    margin: auto;
+    justify-content: center;
+    width: 70%;
+}

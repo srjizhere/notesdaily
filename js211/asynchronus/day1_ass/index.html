@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>admin page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div id="navbar">
+        <div><a href="shirts.html">Shirts</a></div>
+        <div><a href="trousers.html">trousers</a></div>
+        <div><a href="shoes.html">shoes</a></div>
+    </div>
+<h1>Add products from here </h1>
+<div id="adder">
+    <input id="imageurl" placeholder="ImageUrl" type="text">
+    <input id="naam" placeholder="name" type="text">
+    <label for="catagories">Choose a car:</label>
+    <select name="catagories" id="catagories" placeholder="Catagories">
+        <option value="trousers">Trousers</option>
+        <option value="shirts">Shirts</option>
+        <option value="shoes">Shoes</option>
+    </select>
+    <button id="buton" onclick="store()">ADD</button>
+</div>
+    
+</body>
+</html>
+<script src="main.js"></script>

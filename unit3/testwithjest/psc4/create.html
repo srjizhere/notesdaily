@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style/style.css">
+</head>
+<body>
+    <div id="navbar">
+    </div>
+    <div>
+      <h3>Add Post</h3>
+      <input type="text" id="id" placeholder="id" />
+      <input type="text" id="title" placeholder="Title" />
+      <input type="file" id="image" accept="image/*"  />
+      <button id="submit_btn" >Submit</button>
+    </div>
+    <div>
+      <h3>Delete POST</h3>
+      <input type="text" id="delete_id" placeholder="Enter id to delete" />
+      <button  id="delete_btn">Delete</button>
+    </div>
+    <div>
+      <h3>Update Post</h3>
+      <input type="text" id="update_id" placeholder="Enter id to update" />
+      <input type="text" id="update_title" placeholder="Enter new title" />
+      <button id="update_btn">update Title</button>
+    </div>
+    <div>
+      <h3>Replace Post</h3>
+      <input type="text" id="replace_id" placeholder="Enter id to replace" />
+      <input type="text" id="replace_title" placeholder="Enter new title" />
+      <button id="replace_btn">replace Title</button>
+    </div>
+</body>
+</html>
+<script type="module" src="create.js"></script>

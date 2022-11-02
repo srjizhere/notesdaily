@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>movies</title>
+    <style>
+        #imc{
+            width: 100%;
+            height: 390px;
+        }
+    #basic{
+        display: grid;
+        grid: template rows 25% 25% 25% ;
+    }
+    #movies{
+        /* border: 1px solid red; */
+        display: grid;
+        grid-template-columns: 30% 30% 30%;
+        grid-gap: 25px;
+        margin-top: 25px;
+        align-content: center;
+        justify-content: center;
+        /* grid-template-row: auto; */
+    }
+    #movies>div{
+        /* border: 1px solid blue; */
+        text-align: center;
+        
+    }
+    #movies>div>img{
+        width: 100%;
+
+    }
+    </style>
+</head>
+<body>
+    <h1>HOTSTAR</h1>
+    <div id="carosel"></div>
+    <div>
+        <input type="text" id="query">
+        
+        <button onclick="sermo()">search movies</button>
+    </div>
+    <!-- <img src="https://media4.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" id="loader"> -->
+    <div id="movies"></div>
+
+    
+</body>
+</html>
+<script>
+    let car=["https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/12/BEST-MOVIES-ON-NETFLIX.jpg?q=50&fit=contain&w=1500&h=&dpr=1.5",
+"https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/07/diego-luna-cassian-andor.jpg?q=50&fit=contain&w=1500&h=&dpr=1.5",
+"https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/09/rings-of-power-ismael-cruz-cordova-1.jpg?q=50&fit=contain&w=1500&h=&dpr=1.5",
+"https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/09/custom-image-last-light-matthew-fox-joanne-froggatt.jpg?q=50&fit=crop&w=620&h=340&dpr=1.5"]
+ function caro(car){
+        let caro=document.getElementById("carosel");
+        caro.innerHTML=null;
+        let i=0;
+        let imc=document.createElement(`img`);
+        imc.id="imc";
+        imc.src=car[i];
+        caro.append(imc);
+        i++;
+        setInterval(function() {
+            if(i==3){
+            i=0;
+        }
+        console.log(car[i]);
+        imc.src=car[i];
+        // container.innerHTML=img;
+        caro.append(imc)
+        i++;
+        }, 3000);
+ }  
+    caro(car);
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    let actualdata;
+  async function sermo(){
+//you needcolllection of movies
+// where is the collection then?
+//pass a url
+
+
+//show loader
+//1.create img src=gif wala id loader
+// append to movies container 
+//stop showing it icon when
+try{
+    let query=document.getElementById("query").value;
+   let lod= document.createElement("img");
+   lod.id="loader";
+   lod.src="https://media4.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif"
+   document.getElementById("movies").append(lod)
+    //document.getelementbyid(loader)
+    //loader.style.display=null;
+console.log(query);
+let res= await fetch(`http://www.omdbapi.com/?apikey=540061a6&s=${query}`)
+data=await res.json();
+ actualdata = data.Search;
+//  document.getElementById("loader").style.display="none";
+
+ appendMovies(actualdata)
+console.log(actualdata);
+
+console.log(data);
+} catch(err){
+    console.log("err",err);
+}
+}
+//what//line no37  where is in movies id on dom
+//make actual data global or define 
+   function appendMovies(data){
+let div_data=document.getElementById("movies");
+    div_data.innerHTML=null;
+    data.forEach(function(el){
+        let div =document.createElement("div");
+        let p_name=document.createElement("p")
+        p_name.innerHTML=`name: ${el.Title}`;
+
+
+        let p_rating=document.createElement(`p`);
+        p_rating.innerHTML= `year ${el.Year}`;
+
+
+
+        let imgg=document.createElement(`img`);
+        imgg.id=`poster`;
+        imgg.src=el.Poster;
+
+
+        div.append(imgg,p_name,p_rating);
+        div_data.append(div)
+
+    });
+    return;
+   } 
+
+
+
+
+
+
+
+
+
+//steps to add loader
+//1.when you click on sermo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+//    wrong url(spellling mistake)
+// not writing asyn, await
+</script>

@@ -1,0 +1,19 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+#navbar>div{
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+}
+#navbar a{
+    
+    margin: 10px;
+    padding: 3%;
+    border: 1px solid red;
+    text-decoration: none;
+    color: whitesmoke;
+}

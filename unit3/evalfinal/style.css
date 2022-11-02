@@ -1,0 +1,38 @@
+
+#navbar{
+  display: flex;
+  border: 1px solid red;
+  align-items:center;
+  justify-content: space-around;
+  background-color: rgba(255, 208, 208, 0.68);
+}
+#navbar>input{
+  padding: 20px;
+  width: 75%;
+  border-radius: 25px;
+
+
+}
+#navbar>a{
+  border: 1px solid red;
+  /* height: 50%; */
+}
+#block-2{
+  display: flex;
+  border: 1px solid green;
+  justify-content: space-between;
+
+}
+#sidebar{
+  border: 1px solid greenyellow;
+  width:20%;
+  justify-content: center;
+  padding: 1%;
+}
+#sidebar>h3{
+ background-color: rgb(73, 132, 167);
+}
+#results{
+  border: 1px solid rgb(110, 158, 190);
+  width: 80%;
+}

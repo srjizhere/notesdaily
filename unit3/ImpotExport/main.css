@@ -1,0 +1,39 @@
+
+body {
+  margin: 0%;
+}
+#movies {
+  display: inline-grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  /* width: 30%; */
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+#movies div {
+  display: grid;
+  margin-bottom: 10%;
+  justify-items: center;
+}
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2%;
+  background: linear-gradient(to bottom, #192133, #111826);
+  color: white;
+}
+#lhs {
+  flex: 4;
+  display: flex;
+  align-items: center;
+}
+#lhs h4 {
+  margin-left: 4%;
+}
+#rhs {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,40 @@
+#posts {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    margin: 0 30% 70%;
+  }
+  #posts img {
+    width: 100%;
+  }
+  #posts div {
+    margin: 3%;
+    border: solid 1px black;
+    width: 470px;
+  }
+  #navbar {
+    display: flex;
+    justify-content: center;
+  }
+  #navbar div {
+    display: flex;
+    justify-content: center;
+    border: solid 1px black;
+  }
+  #logo {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+  }
+  #logo img {
+    width: 30%;
+  }
+  #search {
+    flex: 2;
+  }
+  #options {
+    flex: 3;
+    display: flex;
+    align-items: center;
+  }
