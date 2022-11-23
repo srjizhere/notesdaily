@@ -1,0 +1,9 @@
+cjs -> const x = require("y") module.export
+
+ESM import x from y , export "x"
+
+1. Local modules -> calc.js->sum
+2. The inbuilt modules in Node-> e.g OS=>documentation 
+3.External Packages/modules/third party library --> npm --> node Package manager-->https://www.npmjs.com/
+
+npm istall is-even
