@@ -1,0 +1,3009 @@
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to servehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to serverhey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to servehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET urlr
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to servehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to servehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to serverhey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to servehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshakehey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+hey hello how are you im  suraj and ia am doing a trial of my server and this tiem 
+ia will be doing it my self and this is not that much easy for me but ia m truying my best t o o do so ans a biy in the web develpo
+meja
+lorem
+i have to do it more and more more na d a more 
+but it is not that much difficult but somwhere what i thing is is for me only
+ to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+headers -> just gives additional information about the request or the response
+
+benchmarking -> req/sec -> autocannon
+
+/ - 53092 req/sec
+/notes - 22426 req/sec
+/notes - with more 10,000 req/sec
+
+
+Thunderclient extension in VScode
+1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url1. Client expresses it's intent to the server;
+2. Server Acknowledges the client's intent;
+3. Client says - Okay - this is what I need;
+
+1. Call the Auto/waving a hand or saying "rickshaw" or "auto"
+2. Slow down..., he'll nod his head or tell you 
+3. Location, fare
+
+
+
+1 GB -> 1 GB
+
+small small pieces/chunk - packets - depends on your Internet bandwidth
+
+How many mb of data per second can be trasnfered - mbps
+
+
+my bandwidth - 10Mbps - 10 bits 
+File - 1 GB - 1024MB ->  1024*1024 KB -> 1048576 KB * 1024 -> 1073741824 Bytes -> 8589934592 bits
+1 Byte -> 8 bits;
+Time - 858993459 bits/sec -> 14316557 bits/min -> 1789569 Bytes/min -> 1747 KB/min ->  ~ 1.7 MB/min
+ HTTP -> Protocol - rules
+
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET urlr
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+
+GET urlr
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET urlr
+
+GET url
+
+GET urlr
+
+GET url
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url
+client to server
+
+HTTP -> Hyper text transfer Protocol
+HTTPS -> Hyper text transfer Protocol + secure
+
+client -> server
+3 way handshake
+
+C    - S
+
+Http verbs/methods -> 
+GET,  - to read something from the server
+PUT,  - Modify -> will replace the whole thing
+PATCH, - Modify ->  will modify one specific thing in the whole thing
+DELETE, - to delete something on the server
+POST - to post/add/sent something to server
+
+GET url

@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "city": "pune"
+        },
+        {
+            "id": 2,
+            "city": "blr"
+        },
+        {
+            "name": "ganpati",
+            "city": "punjab",
+            "age": 32,
+            "work": "for everybody",
+            "style": "everybody"
+        },
+        {
+            "name": "ganpati",
+            "city": "punjab",
+            "age": 32,
+            "work": "for everybody",
+            "style": "everybody"
+        }
+    ],
+    "teachers": [
+        {
+            "id": 3,
+            "city": "mumbai"
+        }
+    ]
+}
