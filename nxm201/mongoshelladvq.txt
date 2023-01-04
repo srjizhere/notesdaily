@@ -1,0 +1,146 @@
+NXM201 lecture2 advance query
+
+key- value, "health":86
+2. key- value, value could itself have an document/object
+3. key - value, value could be itself an array of objects/string/array
+
+1. FIND A HERO WHO'S HEALTH IS 40
+db.hero.find({health:40})
+
+
+
+
+2. fav color  = red , age = 44
+db.hero.find({metadata:{favouriteColor:"red",age:44}})
+
+    Order matters
+
+
+
+
+
+3. Favourite color red--
+db.hero.find({"metadata.favouriteColor":"red"})
+
+
+4. age 44 in metadata
+db.hero.find({"metadata.age":44})
+
+
+
+
+5. all heros age less than 44
+db.hero.find({"metadata.age":{$lt:44}})
+
+
+
+
+6. find all heros whose powers are intelligence and money
+ db.hero.find({"powers":["intelligence","money"]})
+
+
+
+
+
+7. find all heros having intelligence 
+db.hero.find({powers:"intelligence"}) 
+just remove the []
+
+
+
+8. find all heros having powers as intelligence and money irrspective of the order
+db.hero.find({powers:{$all:["money","intelligence"]}})
+
+
+
+
+
+9. should have any of intelligence money magic
+db.hero.find({powers:{$in:["money","magic"]}})
+
+
+
+
+
+
+
+10. should have either intelligence or money
+db.hero.find({powers:{$in:["robot","intelligence"]}})
+
+
+
+
+
+11. all the heros whose villians should have name hella
+ db.hero.find({"villains":{"name":"Hela","health":87}})
+db.hero.find({"villains.name":"Hela"})
+
+
+
+12. want hero whose villans health is 100;
+db.hero.find({"villains.health":{$gt:99}})or
+db.hero.find({"villains.health":100})
+
+
+
+
+
+
+
+
+
+                    <projection--- projector>
+13. no need of villans exclude _id villans metadata
+db.hero.find({},{villains:0,metadata:0,_id:0})
+
+
+
+
+
+14. want name only not id
+db.hero.find({},{name:1,_id:0})
+
+incluion and inclusion comes soley dont combine
+
+
+
+
+
+15. exclude the favouriteColor inside metaData
+ db.hero.find({},{"metadata.favouriteColor":0})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      aggregation
+db.collectionname.aggregate([])
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

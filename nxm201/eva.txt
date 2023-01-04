@@ -1,0 +1,64 @@
+1. Find total population of all the countries in Eastern Europe Region
+db.world.aggregate([{$match:{Region:"EASTERN EUROPE"}},{$group:{_id:"$Region",total:{$sum:"$Population"}}}])
+ 
+
+
+
+2. Find Average population per country in All regions
+db.world.aggregate([{$group:{_id:"$Region",averagepop:{$avg:"$Population"}}}])
+
+
+
+
+3. Find Average birth rate of entire world
+ db.world.aggregate([{$group:{_id:null,averagebr:{$avg:"$Birthrate"}}}])
+
+
+ 
+
+ 4. Find all the countries, sort them by GDP ascending, population descending, take top 10 countries out
+ db.world.aggregate( [ { $sort: { 'GDP ($ per capita)':1}},{$sort:{Population:-1}},{$limit:10}])
+
+
+
+
+ 5. Find all the countries Birthrate lower than 20, group them by region, find lowest birthrate region.
+ db.world.aggregate([{$match:{Birthrate:{$lt:20}}},{$group:{_id:"$Region",Avgbr:{$avg:"$Birthrate"}}},{$sort:{Avgbr:1}},{$limit:1}])
+
+
+
+
+
+ 6. Find sum of population according to region
+  db.world.aggregate([{$group:{_id:"$Region",sumpop:{$sum:"$Population"}}}])
+
+
+
+
+
+  7. Find average birthrate according to region, sort them by low birthrate first
+  db.world.aggregate([{$sort:{Birthrate:1}},{$group:{_id:"$Region",avgbr:{$avg:"$Birthrate"}}}])
+
+
+
+
+
+  8. Sort all countries by population descending, get 11 to 20 position countries from these.
+  db.world.aggregate([{$sort:{Population:-1}},{$skip:10},{$limit:10}])
+
+
+
+
+
+
+  9.  Write an update query for: find all the countries with phones per thousand greater than 400, set it to 1000.
+  db.world.update( { PhonesPerThousand:{$gt:0.4} },{ $set: {PhonesPerThousand:1}})
+
+
+10. 
+
+
+
+
+
+

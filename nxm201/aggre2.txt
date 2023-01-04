@@ -1,0 +1,90 @@
+relatonships
+
+db.users.insertMany([{name:"aman",email:"aman@masai.com"},{name:"albert",email:"albert@gmail.com"}])
+
+
+blogs collection has email as author from users collection
+users should be able to see only his blogs
+
+
+
+
+localhost:9090/blogs
+1. authentication - jwt-> logged in 
+2. 
+app.get("/blogs",async(req,res)=>{
+    const useremail   = Usermodel.find(_id:userID)
+    const blogs =  await MlogModel.find({author:useremail})
+    res.semd(blogs)
+})
+
+10 diffent query for 10 data
+
+1. use aggreage $lookup instead
+get all blogs inside the users as myblogs 
+db.users.aggregate([{$lookup:{from:"blogs",localField:"email",foreignField:"author",as:"myblogs"}}])
+
+
+2. get all the blogs of aman inside the aman
+db.users.aggregate([{$match:{name:"aman"}},{$lookup:{from:"blogs",localField:"email",foreignField:"author",as:"myblogs"}}])
+
+$project 
+3. see only theseinclude exclude
+nightnxmprac> db.blogs.aggregate([{$project:{title:1,content:1,_id:0}}])
+
+
+4. want to modify key name just to get not in the database
+db.blogs.aggregate([{$project:{vishay:"$title",ander_ki_baat:"$content",_id:0}}])
+
+
+
+
+$count
+5.  db.blogs.aggregate([{$project:{vishay:"$title",ander_ki_baat:"$content",_id:0}},{$count:"blogsno"}])
+
+
+
+
+
+$set - sets new field, based on whatever you want;
+
+
+
+
+
+
+
+
+$out - creates a new collection;
+        overwrites if it's a existing collection;
+
+$out : "newcollectionname" -> same db;
+if you have a collection with same name it will replace that be carefull
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
