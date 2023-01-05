@@ -8,6 +8,8 @@ const fs = require('fs');
  const {connection} = require('./config/db');
  const  {UserModel} = require("./model/User.model")
 const {authenticate} = require('./middelware/authenticate');
+const { decode } = require('punycode');
+const { authorize } = require('./middelware/authorize');
 
 
  const app = express();
@@ -47,14 +49,14 @@ app.use(express.json())
       bcrypt.compare(password,hashed_password,function(err,result){
          if(result){
             const token =  jwt.sign(
-               {email, id : user._id},
-                process.env.tpsc,
-               { expiresIn: 180 }
+               {email, id : user._id,role:user.role},
+                process.env.tpsc
+               // { expiresIn: 900 }
                )
                const refreshtoken = jwt.sign(
                   {id : user._id},
-                  process.env.refreshkey,
-                  {expiresIn : 300}
+                  process.env.refreshkey
+                  // {expiresIn : 1200}
                )
                res.cookie("token", token, {httpOnly:true})
 
@@ -77,7 +79,26 @@ app.get("/reports",authenticate,(req,res) => {
    res.status(200).send({"msg":"health reports are here"})
 });
 
-app.get("logout",(req,res)=>{
+
+
+// all should be allowed 
+app.get("/products",authenticate,authorize(["customer","seller"]),(req,res) => {
+      res.status(200).send({"msg":"Products"})
+});
+
+
+
+//seller should be allowed 
+app.get("/products/edit",authenticate,authorize(["seller"]),(req,res) => {
+      res.status(200).send({"msg":"Products can be edited "})
+
+});
+
+
+
+
+
+app.get("/logout",(req,res)=>{
    const token = req.headers?.authorization?.split(" ")[1];
    const blacklistfiledata = JSON.parse(fs.readFileSync("./blacklist.json","utf-8"))
    blacklistfiledata.push(token);
@@ -109,7 +130,7 @@ app.get("/getrefreshtoken", (req,res)=>{
          const newToken =jwt.sign(
             {email,id},
              process.env.tpsc,
-            { expiresIn: 180 }
+            { expiresIn: 900 }
             )
             return res.send({"token":newToken})
       }

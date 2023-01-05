@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chat</title>
+</head>
+<body>
+    <h1>chat page</h1>
+    <input type="text">
+    <button onclick="sendmessage()">send</button>
+
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js" integrity="sha384-/KNQL8Nu5gCHLqwqfQjA689Hhoqgi2S84SNUxC3roTe4EhJ9AfLkp8QiQcU8AMzI" crossorigin="anonymous"></script>
+    <script >
+        const socket = io()
+        const sendmessage = ()=>{
+        socket.emit("msg","hellow from client")
+        }
+        socket.on("xyz",(arg)=>{
+            onsole.log(arg);
+        })
+
+    </script>
+</body>
+</html>

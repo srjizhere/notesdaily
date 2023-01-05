@@ -16,6 +16,8 @@ const authenticate = (req,res,next)=>{
             }
             return res.send({"msg":err})
          }else{
+            const role = decoded?.role
+            req.body.user_role = role;
             next()
          }
        })

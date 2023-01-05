@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4",
+    "websocket": "^1.0.34",
+    "ws": "^8.11.0"
+  },
+  "name": "websorket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
