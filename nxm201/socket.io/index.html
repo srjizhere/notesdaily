@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chatr</title>
+</head>
+<body>
+    <h1>chat page</h1>
+    <input id="theread"  type="text">
+    <button onclick="sendMessage()">send</button>
+    <div id="messages">
+        <h1 > the messages are below</h1>
+
+
+    </div>
+    
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js" integrity="sha384-/KNQL8Nu5gCHLqwqfQjA689Hhoqgi2S84SNUxC3roTe4EhJ9AfLkp8QiQcU8AMzI" crossorigin="anonymous"></script>
+    
+    <script>
+        const socket = io()
+        
+        const msgdiv = document.getElementById("messages")
+        function  sendMessage(){
+           let t= document.getElementById("theread").value
+            socket.emit("msg",t+"\n")
+        }
+        socket.on("xyz", (s)=>{
+            msgdiv.append(s)
+        })
+    socket.on("usercount",(totl)=>{
+        msgdiv.innerHTML("online are"+totl)
+    })
+    // socket.on("allmsg")
+    </script>
+        </body>
+</html>
