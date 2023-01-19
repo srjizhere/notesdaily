@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>socket.io hitesh</title>
+</head>
+<body>
+
+    <input id="tea" type="text">
+    <button onclick="sendmessage()">send</button>
+
+
+
+
+
+
+
+
+
+
+    <script>
+  
+
+
+
+
+
+
+        const io = require('socket.io-client');
+        const {nanoid} = require('nanoid');
+
+        const socket = io.connect("http://localhost:5000");
+
+       
+        const sendmessage = ()=>{
+           let value = document.getElementById("tea").value
+
+        }
+         </script>
+    
+</body>
+</html>

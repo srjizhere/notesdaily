@@ -2,13 +2,13 @@
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 require('dotenv').config()
-const cookieParser  = require('cookie-parser')
-const fs = require('fs');
+const cookieParser  = require('cookie-parser');
+
 
  const {connection} = require('./config/db');
  const  {UserModel} = require("./model/User.model")
 const {authenticate} = require('./middelware/authenticate');
-const { decode } = require('punycode');
+
 const { authorize } = require('./middelware/authorize');
 
 
