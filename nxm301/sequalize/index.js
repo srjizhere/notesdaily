@@ -5,7 +5,7 @@ const app = express();
 
 app.use(express.json())
 //pass the configuration to db
-const sequelize = new Sequelize('classroom','root','SurajMonicaS',{
+const sequelize = new Sequelize('classroom','root','',{
     host:'localhost',
     dialect:'mysql'
 })
