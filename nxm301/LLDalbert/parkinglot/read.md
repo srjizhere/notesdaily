@@ -32,3 +32,34 @@ A parking lot is an area for parking vehicles. which can be paid or not.  and me
     - trucks
 - Price 
     - per hour
+
+## Users
+- customers
+    - Request for a ticket 
+    - pay for a ticket
+        - cash, card
+    - park a vehicle 
+     
+    
+- Admin
+    - Agent
+     - Park Vehicle 
+     - Payments
+    - Manages the system 
+        - Alloting a slot 
+        - More admin acess
+        - Reports
+    - System 
+
+## Flow 
+- How do users interact with the system, step by step 
+- Customer can arrive at the parking lot 
+- Choose the vehicle Type 
+- Retrive info of parking slots allocated 
+    - Are slots available 
+- print Ticket and give to customer
+- Park at a slot 
+- Goto Exit 
+-  Payment for time
+    - Cash,  Card 
+
