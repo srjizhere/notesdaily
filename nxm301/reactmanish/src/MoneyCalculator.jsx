@@ -2,17 +2,17 @@ import React, { useState } from 'react'
 
 const MoneyCalculator = () => {
     //hooks --> resuable functions
-     const [data,setData] = useState("Masai")
-    const handleWithdraw=()=>{
-        
+     let [amount,setAmount] = useState(100000)
+    const handleWithdraw=async()=>{
+       await setAmount(amount-100)
+        console.log(amount);
     }
     const handleDeposit=()=>{
-
+        setAmount(amount+100)
     }
-    console.log(data);
   return (
     <div>
-        <h1> Current Money $1,00,000</h1>
+        <h1> Current Money ${amount}</h1>
         <button onClick={handleWithdraw}>Withdraw $100</button>
         <button onClick={handleDeposit}>Deposit $100</button>
         </div>
